@@ -1,2 +1,1 @@
-# showcase
-Collection of All Things I Built
+A web page that showcases all things I Built
