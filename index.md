@@ -14,6 +14,7 @@ layout: default
 * [GLP & TriCrypto Beta and Excess Return](https://coindataschool-beta-sharpe-ret-dashboard-main-5rm56h.streamlitapp.com/)
 * [Hayes USD Liquidity Conditions Index](https://coindataschool-husdlci-main-pfjljd.streamlit.app/)
 * [Efficient Frontier & Min-Variance Portfolio of GMX+GNS](https://coindataschool-minvar-portfolio-dashbord-main-w2wjqa.streamlit.app/)
+* [XMON Trading Data by Behavior](https://dune.com/coindataschool/xmon-sudoswap)
 
 ### Python Packages
 
