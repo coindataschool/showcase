@@ -13,8 +13,13 @@ layout: default
 * [GLP Strategies Backtest and Comparison](https://coindataschool-glp-strats-comp-dashboard-main-vimp75.streamlitapp.com/)
 * [GLP & TriCrypto Beta and Excess Return](https://coindataschool-beta-sharpe-ret-dashboard-main-5rm56h.streamlitapp.com/)
 * [Hayes USD Liquidity Conditions Index](https://coindataschool-husdlci-main-pfjljd.streamlit.app/)
-* [Efficient Frontier & Min-Variance Portfolio of GMX and GNS](https://coindataschool-minvar-portfolio-dashbord-main-w2wjqa.streamlit.app/)
- 
+* [Efficient Frontier & Min-Variance Portfolio of GMX+GNS](https://coindataschool-minvar-portfolio-dashbord-main-w2wjqa.streamlit.app/)
+
+### Python Packages
+
+* [defillama2](https://github.com/coindataschool/defillama2), a python client for DeFiLlama's data API.
+* [quickplot](https://github.com/coindataschool/quickplot), easy and quick generation of common statistical charts in a declarative fashion, based off of matplotlib and seaborn.
+
 ### Contact
 
 * Twitter: [@coindataschool](https://twitter.com/coindataschool)
