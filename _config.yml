@@ -1,0 +1,9 @@
+# Site settings
+title: Coin Data School
+tag_text: Coin Data School
+description: Showcase
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
