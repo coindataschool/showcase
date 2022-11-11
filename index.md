@@ -22,5 +22,7 @@ layout: default
 
 ### Contact
 
-* Twitter: [@coindataschool](https://twitter.com/coindataschool)
-* Email: coindataschool@gmail.com
+* Twitter : [@coindataschool](https://twitter.com/coindataschool)
+* Dune    : [@coindataschool](https://dune.com/coindataschool)
+* Substack: [@coindataschool](https://coindataschool.substack.com/)
+* Email   : coindataschool@gmail.com
