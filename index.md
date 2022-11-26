@@ -23,6 +23,11 @@ layout: default
 * [defillama2](https://github.com/coindataschool/defillama2), a python client for DeFiLlama's data API.
 * [quickplot](https://github.com/coindataschool/quickplot), easy and quick generation of common statistical charts in a declarative fashion, based off of matplotlib and seaborn.
 
+### Donate
+
+0x783c5546C863f65481BD05Fd0e3FD5f26724604E
+![ETH Wallet](https://github.com/coindataschool/showcase/blob/main/_assets/CDS-ETH-QR-CODE.png)
+
 ### Follow me
 
 [Twitter](https://twitter.com/coindataschool) | [Dune](https://dune.com/coindataschool) | [Substack](https://coindataschool.substack.com/)
