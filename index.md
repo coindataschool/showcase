@@ -23,7 +23,7 @@ layout: default
 
 Thank you for donating to Coin Data School. Your contribution supports my continuous efforts to bring analytics and education to the crypto space. Your support means a lot to me.
 
-0x783c5546C863f65481BD05Fd0e3FD5f26724604E
+`0x783c5546C863f65481BD05Fd0e3FD5f26724604E`
 ![](assets/CDS-ETH-QR-CODE.png)
 
 - [Ethereum Mainnet](https://etherscan.io/address/0x783c5546c863f65481bd05fd0e3fd5f26724604e)
