@@ -25,7 +25,7 @@ layout: default
 
 ### Donate
 
-Thank you for donating to Coin Data School. Your contribution supports my continuous efforts to bring analytics and education to the DeFi space.
+Thank you for donating to Coin Data School. Your contribution supports my continuous efforts to bring analytics and education to the crypto space. Your support means a lot to me.
 
 0x783c5546C863f65481BD05Fd0e3FD5f26724604E
 ![](assets/CDS-ETH-QR-CODE.png)
@@ -40,4 +40,4 @@ Thank you for donating to Coin Data School. Your contribution supports my contin
 
 ### Follow me
 
-[Twitter](https://twitter.com/coindataschool) | [Dune](https://dune.com/coindataschool) | [Substack](https://coindataschool.substack.com/)
+[Twitter](https://twitter.com/coindataschool) | [Substack](https://coindataschool.substack.com/) | [Dune](https://dune.com/coindataschool)
