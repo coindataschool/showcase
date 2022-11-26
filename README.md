@@ -1,1 +1,1 @@
-A web page that showcases all things I Built
+A web page that lists almost all things I built in crypto.
