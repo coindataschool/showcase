@@ -26,6 +26,7 @@ layout: default
 ### Donate
 
 0x783c5546C863f65481BD05Fd0e3FD5f26724604E
+
 ![ETH Wallet](https://github.com/coindataschool/showcase/blob/main/_assets/CDS-ETH-QR-CODE.png)
 
 ### Follow me
