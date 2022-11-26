@@ -4,19 +4,15 @@ layout: default
 
 ### Dashboards
 
-* [Machine Learning Prediction of ROI and Fee APR of UniV3 WBTC-WETH positions on Ethereum](https://coindataschool-univ3-roi-prediction-wbtc-weth-main-oufzxi.streamlit.app/)
-* [Machine Learning Prediction of ROI and Fee APR of UniV3 WETH-GMX positions on Arbitrum](https://coindataschool-univ3-roi-prediction-weth-gmx-main-ponc95.streamlit.app/)
-* [GLP Key Metrics, Arbitrum](https://dune.com/coindataschool/glp-arbitrum)
-* [GMX Key Metrics, Arbitrum](https://dune.com/coindataschool/gmx-arbitrum)
-* [GLP Key Metrics, Avalanche](https://dune.com/coindataschool/glp-avalanche)
-* [GMX Key Metrics, Avalanche](https://dune.com/coindataschool/gmx-avalanche)
-* [Transaction Cost on GMX, Arbitrum](https://dune.com/coindataschool/cost-of-transactions-on-gmx-arbitrum)
-* [Transaction Cost on GMX, Avalanche](https://dune.com/coindataschool/cost-of-transactions-on-gmx-avalanche)
-* [GLP Strategies Backtest and Comparison](https://coindataschool-glp-strats-comp-dashboard-main-vimp75.streamlitapp.com/)
-* [GLP & TriCrypto Beta and Excess Return](https://coindataschool-beta-sharpe-ret-dashboard-main-5rm56h.streamlitapp.com/)
-* [Hayes USD Liquidity Conditions Index](https://coindataschool-husdlci-main-pfjljd.streamlit.app/)
-* [Efficient Frontier & Min-Variance Portfolio of GMX+GNS](https://coindataschool-minvar-portfolio-dashbord-main-w2wjqa.streamlit.app/)
-* [XMON Trading Data by Behavior](https://dune.com/coindataschool/xmon-sudoswap)
+* Machine Learning Prediction of ROI and Fee APR of UniV3 [WBTC-WETH positions on Ethereum](https://coindataschool-univ3-roi-prediction-wbtc-weth-main-oufzxi.streamlit.app/) and [WETH-GMX positions on Arbitrum](https://coindataschool-univ3-roi-prediction-weth-gmx-main-ponc95.streamlit.app/).
+* [GLP](https://dune.com/coindataschool/glp-arbitrum) and [GMX](https://dune.com/coindataschool/gmx-arbitrum) Key Metrics on Arbitrum.
+* [GLP](https://dune.com/coindataschool/glp-avalanche) and [GMX](https://dune.com/coindataschool/gmx-avalanche) Key Metrics on Avalanche.
+* Transaction Cost on [GMX, Arbitrum](https://dune.com/coindataschool/cost-of-transactions-on-gmx-arbitrum) and [GMX, Avalanche](https://dune.com/coindataschool/cost-of-transactions-on-gmx-avalanche).
+* [Backtest and Comparison of GLP Strategies](https://coindataschool-glp-strats-comp-dashboard-main-vimp75.streamlitapp.com/).
+* [Beta and Excess Return of GLP & TriCrypto](https://coindataschool-beta-sharpe-ret-dashboard-main-5rm56h.streamlitapp.com/).
+* [Hayes USD Liquidity Conditions Index](https://coindataschool-husdlci-main-pfjljd.streamlit.app/).
+* [Efficient Frontier & Min-Variance Portfolio of GMX+GNS](https://coindataschool-minvar-portfolio-dashbord-main-w2wjqa.streamlit.app/).
+* [XMON Trading Data by Behavior](https://dune.com/coindataschool/xmon-sudoswap).
 
 ### Python Packages
 
