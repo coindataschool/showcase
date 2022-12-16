@@ -33,7 +33,8 @@ Thank you for donating to Coin Data School. Your contribution supports my contin
 - [Polygon](https://polygonscan.com/address/0x783c5546c863f65481bd05fd0e3fd5f26724604e)
 - [Avalanche C Chain](https://snowtrace.io/address/0x783c5546c863f65481bd05fd0e3fd5f26724604e)
 - [Fantom](https://ftmscan.com/address/0x783c5546c863f65481bd05fd0e3fd5f26724604e)
+- [Tippin me SAT](https://tippin.me/@coindataschool)
 
 ### Follow me
 
-[Twitter](https://twitter.com/coindataschool) | [Substack](https://coindataschool.substack.com/) | [Dune](https://dune.com/coindataschool)
+[Twitter](https://twitter.com/coindataschool) | [Substack](https://coindataschool.substack.com/) | [github](https://github.com/coindataschool) | [Dune](https://dune.com/coindataschool)
