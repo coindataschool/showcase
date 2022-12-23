@@ -35,7 +35,7 @@ Thank you for donating to Coin Data School. Your contribution supports my contin
 
 ### Fiat
 
-![](coin-data-school-ko-fi.png)
+![](assets/coin-data-school-ko-fi.png)
 
 ### Follow me
 
