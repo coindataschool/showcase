@@ -4,7 +4,7 @@ layout: default
 
 ### Dashboards
 
-* Machine Learning Prediction of ROI and Fee APR of UniV3 [WBTC-WETH positions on Ethereum](https://coindataschool-univ3-roi-prediction-wbtc-weth-main-oufzxi.streamlit.app/) and [WETH-GMX positions on Arbitrum](https://coindataschool-univ3-roi-prediction-weth-gmx-main-ponc95.streamlit.app/).
+* Predict ROI and Fee APR of UniV3 [WBTC-WETH positions on Ethereum](https://coindataschool-univ3-roi-prediction-wbtc-weth-main-oufzxi.streamlit.app/) and [WETH-GMX positions on Arbitrum](https://coindataschool-univ3-roi-prediction-weth-gmx-main-ponc95.streamlit.app/) with machine learning.
 * [GLP](https://dune.com/coindataschool/glp-arbitrum) and [GMX](https://dune.com/coindataschool/gmx-arbitrum) Key Metrics on Arbitrum.
 * [GLP](https://dune.com/coindataschool/glp-avalanche) and [GMX](https://dune.com/coindataschool/gmx-avalanche) Key Metrics on Avalanche.
 * Transaction Cost on [GMX, Arbitrum](https://dune.com/coindataschool/cost-of-transactions-on-gmx-arbitrum) and [GMX, Avalanche](https://dune.com/coindataschool/cost-of-transactions-on-gmx-avalanche).
