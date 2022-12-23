@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Dashboards
+## Dashboards
 
 * Predict ROI and Fee APR of UniV3 [WBTC-WETH positions on Ethereum](https://coindataschool-univ3-roi-prediction-wbtc-weth-main-oufzxi.streamlit.app/) and [WETH-GMX positions on Arbitrum](https://coindataschool-univ3-roi-prediction-weth-gmx-main-ponc95.streamlit.app/) with machine learning.
 * [GLP](https://dune.com/coindataschool/glp-arbitrum) and [GMX](https://dune.com/coindataschool/gmx-arbitrum) Key Metrics on Arbitrum.
@@ -14,12 +14,12 @@ layout: default
 * [Efficient Frontier & Min-Variance Portfolio of GMX+GNS](https://coindataschool-minvar-portfolio-dashbord-main-w2wjqa.streamlit.app/).
 * [XMON Trading Data by Behavior](https://dune.com/coindataschool/xmon-sudoswap).
 
-### Python Packages
+## Python Packages
 
 * [defillama2](https://github.com/coindataschool/defillama2), a python client for DeFiLlama's data API.
 * [quickplot](https://github.com/coindataschool/quickplot), easy and quick generation of common statistical charts in a declarative fashion, based off of matplotlib and seaborn.
 
-### Donate
+## Donate
 
 Thank you for donating to Coin Data School. Your contribution supports my continuous efforts to bring analytics and education to the crypto space. Your support means a lot to me.
 
@@ -37,6 +37,6 @@ Thank you for donating to Coin Data School. Your contribution supports my contin
 
 ![](assets/coin-data-school-ko-fi.png)
 
-### Follow me
+## Follow me
 
 [Twitter](https://twitter.com/coindataschool) | [Substack](https://coindataschool.substack.com/) | [github](https://github.com/coindataschool) | [Dune](https://dune.com/coindataschool)
