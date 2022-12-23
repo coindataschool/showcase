@@ -39,4 +39,4 @@ Thank you for donating to Coin Data School. Your contribution supports my contin
 
 ## Follow me
 
-[Twitter](https://twitter.com/coindataschool) | [Substack](https://coindataschool.substack.com/) | [github](https://github.com/coindataschool) | [Dune](https://dune.com/coindataschool)
+[Twitter](https://twitter.com/coindataschool) | [Substack](https://coindataschool.substack.com/) | [github](https://github.com/coindataschool) | [Dune](https://dune.com/coindataschool) | [Ko-fi](https://ko-fi.com/coindataschool)
