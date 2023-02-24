@@ -4,8 +4,8 @@ layout: default
 
 ## Dashboards
 
-* Uniswap V3 Pools [Screener](https://dune.com/coindataschool/uniswap-v3-pools-volume-fees-tvl-and-fee-apr)
-* Curated Uniswap V3 Pools: [Volume, Fees, TVL, and fee APR](https://dune.com/coindataschool/curated-uniswap-v3-pools-volume-fees-tvl-and-fee-apr)
+* Uniswap V3 Pools [Screener](https://dune.com/coindataschool/uniswap-v3-pools-volume-fees-tvl-and-fee-apr).
+* Curated Uniswap V3 Pools: [Volume, Fees, TVL, and fee APR](https://dune.com/coindataschool/curated-uniswap-v3-pools-volume-fees-tvl-and-fee-apr).
 * Predict ROI and Fee APR of UniV3 [WBTC-WETH positions on Ethereum](https://coindataschool-univ3-roi-prediction-wbtc-weth-main-oufzxi.streamlit.app/) and [WETH-GMX positions on Arbitrum](https://coindataschool-univ3-roi-prediction-weth-gmx-main-ponc95.streamlit.app/) with machine learning.
 * [GLP](https://dune.com/coindataschool/glp-arbitrum) and [GMX](https://dune.com/coindataschool/gmx-arbitrum) Key Metrics on Arbitrum.
 * [GLP](https://dune.com/coindataschool/glp-avalanche) and [GMX](https://dune.com/coindataschool/gmx-avalanche) Key Metrics on Avalanche.
