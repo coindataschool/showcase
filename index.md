@@ -10,9 +10,7 @@ layout: default
 * [Beta and Excess Return of GLP & TriCrypto](https://coindataschool-beta-sharpe-ret-dashboard-main-5rm56h.streamlitapp.com/).
 * [Hayes USD Liquidity Conditions Index](https://coindataschool-husdlci-main-pfjljd.streamlit.app/).
 
-### Stopped Maintaining
-
-#### Can resume maintainence upon huge demand
+### Only Maintain Upon Huge Demand
 
 * [GLP](https://dune.com/coindataschool/glp-arbitrum) and [GMX](https://dune.com/coindataschool/gmx-arbitrum) Key Metrics on Arbitrum.
 * [GLP](https://dune.com/coindataschool/glp-avalanche) and [GMX](https://dune.com/coindataschool/gmx-avalanche) Key Metrics on Avalanche.
