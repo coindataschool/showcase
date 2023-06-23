@@ -7,14 +7,13 @@ layout: default
 ### Actively Maintained
 
 * A collection of [tools](https://twitter.com/coindataschool/status/1658997596927713281) for researching and managing Uniswap V3 LP positions.
+* Key Metrics for [GLP holders](https://dune.com/coindataschool/glp-arbitrum) and [(es)GMX](https://dune.com/coindataschool/gmx-arbitrum) stakers on Arbitrum.
 * [Beta and Excess Return of GLP & TriCrypto](https://coindataschool-beta-sharpe-ret-dashboard-main-5rm56h.streamlitapp.com/).
 * [Hayes USD Liquidity Conditions Index](https://coindataschool-husdlci-main-pfjljd.streamlit.app/).
 
 ### Only Maintain Upon Huge Demand
 
-* [GLP](https://dune.com/coindataschool/glp-arbitrum) and [GMX](https://dune.com/coindataschool/gmx-arbitrum) Key Metrics on Arbitrum.
 * [GLP](https://dune.com/coindataschool/glp-avalanche) and [GMX](https://dune.com/coindataschool/gmx-avalanche) Key Metrics on Avalanche.
-* Transaction Cost on [GMX, Arbitrum](https://dune.com/coindataschool/cost-of-transactions-on-gmx-arbitrum) and [GMX, Avalanche](https://dune.com/coindataschool/cost-of-transactions-on-gmx-avalanche).
 * [Backtest and Comparison of GLP Strategies](https://coindataschool-glp-strats-comp-dashboard-main-vimp75.streamlitapp.com/).
 * Predict ROI and Fee APR of UniV3 [WBTC-WETH positions on Ethereum](https://coindataschool-univ3-roi-prediction-wbtc-weth-main-oufzxi.streamlit.app/) and [WETH-GMX positions on Arbitrum](https://coindataschool-univ3-roi-prediction-weth-gmx-main-spynrp.streamlit.app/) with machine learning.
 * [Efficient Frontier & Min-Variance Portfolio of GMX+GNS](https://coindataschool-minvar-portfolio-dashbord-main-w2wjqa.streamlit.app/).
